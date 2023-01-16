@@ -4,3 +4,5 @@ Lib/*
 .idea/*
 share/*
 pyvenv.cfg
+meta.tsv
+vecs.tsv
